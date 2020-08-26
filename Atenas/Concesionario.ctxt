@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Concesionario
+comment0.text=\r\n\ Esta\ clase\ se\ encarga\ de\ almacenar\ la\ informaci\u00F3n\ de\ los\ concesionarios.\r\n\ \r\n\ @author\ Atenas\ \r\n\ @version\ 23/08/2020\r\n
+comment1.params=nombre\ ciudad\ direccion\ marca
+comment1.target=Concesionario(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Concesionario.\r\n\ \r\n\ @param\ nombre\ Nombre\ del\ concesionario.\r\n\ \r\n\ @param\ ciudad\ Sede\ del\ concesionario.\r\n\ \r\n\ @param\ direcci\u00F3n\ Direcci\u00F3n\ del\ concesionario.\r\n\ \r\n\ @param\ marca\ Marca\ de\ veh\u00EDculo\ a\ solicitar\ (Si\ est\u00E1\ vac\u00EDo,\ entonces\ puede\ pedir\ de\ cualquier\ marca).\r\n
+comment10.params=marca
+comment10.target=void\ setMarca(java.lang.String)
+comment2.params=
+comment2.target=Concesionario()
+comment2.text=\r\n\ Constructor\ de\ la\ clase\ Concesionario\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=
+comment4.target=java.lang.String\ getCiudad()
+comment5.params=
+comment5.target=java.lang.String\ getDireccion()
+comment6.params=
+comment6.target=java.lang.String\ getMarca()
+comment7.params=nombre
+comment7.target=void\ setNombre(java.lang.String)
+comment8.params=ciudad
+comment8.target=void\ setCiudad(java.lang.String)
+comment9.params=direccion
+comment9.target=void\ setDireccion(java.lang.String)
+numComments=11

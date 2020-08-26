@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Importacion
+comment0.text=\r\n\ Esta\ clase\ es\ uno\ de\ los\ tipos\ de\ operaciones\ realizables,\ encargada\ de\ almacenar\ los\ datos\ de\ las\ importaciones\ realizadas.\r\n\ \r\n\ @author\ Atenas\ \r\n\ @version\ 23/08/2020\r\n
+comment1.params=transporte\ vehiculos\ proveedor
+comment1.target=Importacion(int,\ java.util.ArrayList,\ Proveedor)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Importacion\r\n\ \r\n\ @param\ transporte\ Tipo\ de\ transporte\ utilizado\ en\ la\ importaci\u00F3n\ (0\ \=\ terrestre,\ 1\ \=\ mar\u00EDtimo,\ 2\ \=\ a\u00E9reo).\r\n\ \r\n\ @param\ vehiculos\ Veh\u00EDculos\ importados\ en\ la\ operaci\u00F3n.\r\n\ \r\n\ @param\ completada\ Indicador\ del\ estado\ de\ la\ operaci\u00F3n.\r\n
+comment2.params=
+comment2.target=Importacion()
+comment2.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Importacion.\r\n
+comment3.params=transporte
+comment3.target=void\ setTransporte(int)
+comment3.text=\r\n\ M\u00E9todo\ para\ asignar\ el\ atributo\ transporte\ de\ la\ operaci\u00F3n.\r\n\ \r\n\ @param\ \ transporte.\r\n
+comment4.params=
+comment4.target=Proveedor\ getProveedor()
+numComments=5

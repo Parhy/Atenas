@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Pais
+comment0.text=\r\n\ Esta\ clase\ maneja\ los\ tipos\ de\ transporte\ disponibles\ en\ cada\ pa\u00EDs.\r\n\ \r\n\ @author\ Atenas\ \r\n\ @version\ 23/08/2020\r\n
+comment1.params=nombre\ transporte
+comment1.target=Pais(java.lang.String,\ boolean[])
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Pais.\r\n\ \r\n\ @param\ nombre\ Nombre\ del\ pa\u00EDs.\r\n\ \r\n\ @param\ transporte\ Tipos\ de\ transporte\ disponibles.\r\n
+comment2.params=nombre
+comment2.target=Pais(java.lang.String)
+comment2.text=\r\n\ Constructor\ de\ la\ clase\ Pais.\r\n\ \r\n\ @param\ nombre\ Nombre\ del\ pa\u00EDs.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment3.text=\r\n\ M\u00E9todo\ para\ obtener\ el\ nombre\ del\ pa\u00EDs.\r\n
+comment4.params=
+comment4.target=boolean[]\ getTransporte()
+comment4.text=\r\n\ M\u00E9todo\ para\ obtener\ los\ tipos\ de\ transporte\ del\ pa\u00EDs.\r\n
+comment5.params=b\ i
+comment5.target=void\ setTransporte(boolean,\ int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

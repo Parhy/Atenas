@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Oferta
+comment0.text=\r\n\ Esta\ clase\ es\ uno\ de\ los\ tipos\ de\ operaciones\ realizables;\ encargada\ de\ almacenar\ los\ datos\ de\ las\ ofertas\ realizadas\ por\ los\ concesionarios..\r\n\ \r\n\ @author\ Atenas\r\n\ @version\ 23/08/2020\r\n
+comment1.params=vehiculos\ concesionario
+comment1.target=Oferta(java.util.ArrayList,\ Concesionario)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Oferta.\r\n\ \r\n\ @param\ vehiculos\ Veh\u00EDculos\ solicitados\ por\ el\ concesionario.\r\n\ \r\n\ @param\ concesionario\ Concesionario\ que\ pide\ la\ oferta.\r\n
+comment2.params=
+comment2.target=Oferta()
+comment2.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Oferta.\r\n
+comment3.params=
+comment3.target=Concesionario\ getConcesionario()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

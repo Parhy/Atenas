@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Historial
+comment0.text=\r\n\ Clase\ encargada\ de\ gestionar\ el\ historial\ de\ importaci\u00F3n/ventas\ realizadas.\ Permite\ mostrar\ informaci\u00F3n\ detallada\ de\ las\ operaciones.\r\n\ \r\n\ @author\ Atenas\r\n\ @version\ 23/08/2020\r\n
+comment1.params=
+comment1.target=Historial()
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Historial\r\n
+comment2.params=operacion
+comment2.target=void\ a\u00F1adirOperacion(Operacion)
+comment2.text=\r\n\ A\u00F1ade\ operaciones\ al\ historial.\r\n\ \r\n\ @param\ \ operacion\ Nueva\ operaci\u00F3n\ realizada.\r\n
+comment3.params=operaciones
+comment3.target=void\ setOperaciones(java.util.ArrayList)
+comment4.params=
+comment4.target=java.util.ArrayList\ getOperaciones()
+comment4.text=\r\n\ M\u00E9todo\ para\ obtener\ las\ operaciones\ realizadas.\r\n\ \r\n\ @return\ \ Las\ operaciones\ ya\ realizadas.\r\n
+comment5.params=
+comment5.target=void\ cargarHistorial()
+comment5.text=\r\n\ M\u00E9todo\ para\ cargar\ el\ historial.\r\n
+comment6.params=operacion
+comment6.target=void\ guardarOperacion(Operacion)
+comment6.text=\r\n\ M\u00E9todo\ para\ guardar\ la\ operaci\u00F3n\ realizada.\r\n
+numComments=7
